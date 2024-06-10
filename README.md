@@ -21,22 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Utilização de IA no dia a dia, no futuro.
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilização de IA no cotidiano de uma sociedade, em escolas e etc. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ferramenta utilizada Copilot.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O desenvolvimento foi utilizando o Copilot da Microsoft, onde mostra a utilização de robôs e IA na vida das pessoas no futuro.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Projeto IA dio](https://github.com/ruan7z/lab-natty-or-not/assets/169865310/5dc9b0a2-deb2-4499-b05c-6ce6d95de4d6)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
